@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="account">20sp</dimen>
+    <dimen name="pass">20sp</dimen>
+    <dimen name="recover">18sp</dimen>
+</resources>

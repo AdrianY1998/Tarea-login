@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarea</string>
+
+    <string name="account">bobPLop@mail.com</string>
+    <string name="pass">*******</string>
+    <string name="recover">Forgot your password?</string>
+
+
+</resources>
